@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbcnrlz
+- 👋 Hi, I’m João Cardia
 - 👀 I’m interested in computer vision, machine learning
 - 💞️ I’m looking to collaborate on any researches that deals with biometrics, facial expression recognition, or machine learning applied to solving urban problems.
 - 📫 You can reach me on joao.cardia@fatec.sp.gov.br
